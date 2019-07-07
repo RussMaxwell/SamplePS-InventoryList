@@ -1,3 +1,4 @@
+#This function creates a list#
 function setupList ($tempCT)
 {
     try {
